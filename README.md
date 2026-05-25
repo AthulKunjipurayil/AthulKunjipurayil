@@ -9,4 +9,3 @@ Nuclear astrophysicist exploring the universe through code — from stellar nucl
 
 ---
 
-*"We are made of star-stuff." — Carl Sagan*
