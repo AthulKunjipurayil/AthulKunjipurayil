@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @AthulKunjipurayil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Athul 👋
 
-<!---
-AthulKunjipurayil/AthulKunjipurayil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nuclear astrophysicist exploring the universe through code — from stellar nucleosynthesis to the physics of dense matter.
+
+- 🔭 Researching nuclear processes in stars and compact objects
+- 💻 Building and contributing to open-source scientific tools
+- 🌱 Always learning — at the intersection of physics, computation, and data
+- 🤝 Open to collaboration on scientific computing and open-source projects
+- 📫 Reach me: [your email or preferred contact]
+
+---
+
+*"We are made of star-stuff." — Carl Sagan*
